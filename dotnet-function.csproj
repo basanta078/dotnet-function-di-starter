@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
-    <RootNamespace>function_starter</RootNamespace>
+    <RootNamespace>dotnet_function</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.3" />
